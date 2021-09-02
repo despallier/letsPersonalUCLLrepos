@@ -2,7 +2,7 @@
 """
 Created on Mon Aug  9 16:29:10 2021
 
-@author: Jan
+@author: Jan D'Espallier
 """
 
 import xlrd
