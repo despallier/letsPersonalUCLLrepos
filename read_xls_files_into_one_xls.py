@@ -2,7 +2,7 @@
 """
 Created on Mon Aug  9 16:29:10 2021
 
-@author: Jan D'Espallier
+@author: Jan D'Espallier extra change 'approved for release V1'
 """
 
 import xlrd
